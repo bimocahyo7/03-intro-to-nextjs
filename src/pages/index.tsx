@@ -6,7 +6,15 @@ const HomePage = () => {
     <div>
       <h1>Selamat datang di Website saya!</h1>
       <p>Ini adalah halaman utama</p>
-      <Link href="/about">Tentang Kami</Link>
+      <p>
+        <Link href="/about">Tentang Kami</Link>
+      </p>
+      <p>
+        <Link href="/user">List Data User</Link>
+      </p>
+      <p>
+        <Link href="/weather">Cek Cuaca</Link>
+      </p>
     </div>
   );
 };
