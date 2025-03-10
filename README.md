@@ -83,3 +83,22 @@ halaman about.
    Setelah diklik, maka mengarahkan ke url http://localhost:3000/about dengan tampilan seperti berikut.
 
    ![Halaman About dari navigasi Link](public/images/06_output_about_page.png)
+
+
+## Tugas
+
+1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users.
+
+   **Screenshot:**
+   ![Tampilan halaman User](public/images/07_tugas_1.png)
+
+2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID
+
+   **Screenshot:**
+   ![Tampilan halaman detail User](public/images/07_tugas_2.png) 
+
+3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap)
+dan tampilkan data tersebut di halaman front-end
+
+   **Screenshoot:**
+   ![Tampilan halaman Weather](public/images/07_tugas_3.png)
